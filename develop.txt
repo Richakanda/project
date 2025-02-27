@@ -1,1 +1,1 @@
-This is the 1st file in develop branch.  This is to test the git revert feature
+This is the 1st file in develop branch
