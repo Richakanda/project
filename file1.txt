@@ -2,3 +2,7 @@ This is the updated (remote repo) file1
 
 
 Logic added for conflict1
+
+
+
+Logic added for conflict2
